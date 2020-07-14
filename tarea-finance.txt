@@ -1,0 +1,13 @@
+Tarea:
+
+Hacer una calculadora hipotecaria que permita al usuario estimar el monto que pagara mensual por el financiamiento de su casa
+
+Los campos deben ser los siguientes
+
+Valor del inmueble
+Pago inicial
+Tasa de interes anual(%)
+Periodo de pago(Meses)
+
+
+El resultado debe ser el monto que se pagara de manera mensual, la cantidad de intereses que ganara el banco y el monto total que se pagara al final de periodo de pago mensual(Monto total + Intereses)
